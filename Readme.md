@@ -30,6 +30,9 @@ Membangun model regresi linier untuk:
 - **NumPy** - Komputasi numerik
 - **Matplotlib/Seaborn** - Visualisasi data
 - **Jupyter Notebook** - Environment pengembangan
+- **Great Expectations** - Validasi kualitas data
+- **ipywidgets** - Widget interaktif untuk Jupyter
+- **missingno** - Visualisasi data yang hilang
 
 ## 📦 Instalasi Dependencies
 
@@ -78,7 +81,7 @@ Analisis ini dapat membantu dalam:
 .
 ├── regresi.ipynb          # Notebook utama dengan analisis
 ├── requirements.txt       # Dependencies Python
-├── README.md             # Dokumentasi proyek
+├── README.md              # Dokumentasi proyek
 └── data/
     └── dataset_statistic.csv  # Dataset pelanggan
 ```
